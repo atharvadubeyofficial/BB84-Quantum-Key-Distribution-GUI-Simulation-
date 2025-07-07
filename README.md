@@ -111,17 +111,35 @@ Quantum network training and awareness
 
 🖼 Screenshots
 
-📸 GUI View
-📈 Error Rate & Key Length Chart
-🔐 Encrypted + Decrypted Message Display
+🖥️ GUI Simulation Window  
+The main interface allows secure message encryption using the BB84 quantum key — built with Tkinter.
 
-🧑‍💻 Author
+![GUI Simulation Window](images/GUI%20Simulation%20window.PNG)
+
+---
+
+🔐 Live Encryption Output & Error Rate Detection  
+Instant decryption and real-time error rate calculation, helping us detect any eavesdropping attempt based on quantum error thresholds.
+
+![Error Rate Detection](images/Error%20rate%20detection.PNG)
+
+---
+
+📊 Simulation Summary with Graph  
+Shows shared key length and error percentage using a clean, matplotlib-powered bar chart. A clear, visual conclusion of quantum security success.
+
+![GUI Simulation and Graph](images/GUI%20Simulation%20and%20Graph.PNG)
+
+---
+
+
+🧑‍💻 About the author
 
 Atharva Dubey
 B.Tech Student — Shri G.S. Institute of Technology and Science (SGSITS), Indore
 B.S. in Data Science — IIT Madras
 🔭 Passionate about National Defense, Quantum Security & Cyber Warfare
-🔗 LinkedIn
+🔗 LinkedIn :- https://www.linkedin.com/in/atharva-dubey-76b566331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ---
